@@ -1,0 +1,11 @@
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\bin\Debug\Mp3JukeboxFileRenamer.exe.config
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\bin\Debug\Mp3JukeboxFileRenamer.exe
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\bin\Debug\Mp3JukeboxFileRenamer.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\bin\Debug\Mp3JukeboxFileRenamer.xml
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.Resources.resources
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.vbproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.exe
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.xml
+c:\users\robert\documents\visual studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.pdb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.vbprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Mp3JukeboxFileRenamer\Mp3JukeboxFileRenamer\obj\Debug\Mp3JukeboxFileRenamer.Form1.resources
