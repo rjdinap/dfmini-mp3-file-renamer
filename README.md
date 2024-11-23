@@ -16,3 +16,4 @@ If choosing the 'add numbering' button, internally, it first removes all numbers
 If you don't have visual studio, or you don't want to compile, there is a pre compiled .exe in the /bin/debug folder of the repository.
 
 
+![image](https://github.com/user-attachments/assets/8a9988c6-efbd-46dd-8fea-d35bb4260ca9)
